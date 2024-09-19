@@ -1,0 +1,8 @@
+!
+! Title: 自用adguard规则
+! Description: 自用规则
+!
+! Phone规则
+! 网址屏蔽
+
+||gitee.com
