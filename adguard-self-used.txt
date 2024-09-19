@@ -4,5 +4,4 @@
 !
 ! Phone规则
 ! 网址屏蔽
-
-||gitee.com
+||gitee.com^
